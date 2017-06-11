@@ -1,0 +1,1 @@
+export { default } from 'weather-widget/components/weather-report/component';
